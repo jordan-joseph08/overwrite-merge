@@ -1,2 +1,2 @@
 file 1 edited
-this is not line 2
+this is line 2
